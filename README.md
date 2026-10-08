@@ -16,6 +16,15 @@
 - **Air-Gapped Android Architecture**: Engineering 100% offline, privacy-first mobile applications with zero network permissions, lifecycle-aware coroutines, and native Scoped Storage pipelines.
 - **Fluid & Tactile Interface Systems**: Designing high-contrast editorial layouts, custom Jetpack Compose canvas shader wave dynamics, and responsive client-side web engines.
 
+```python
+# Engineering Axioms (Gist: kinetics_manifesto.py)
+OFFLINE_FIRST = True               # Zero telemetry, 100% on-device sandbox
+NETWORK_PERMISSIONS = 0            # Air-gapped Android & local persistence
+ARRHENIUS_Q10_FACTOR = 2.0         # Reaction velocity doubling per 10°C spike
+BOTULINUM_SAFE_PH = 4.60           # Anaerobic spore germination threshold
+MIN_WATER_ACTIVITY = 0.60          # Microbial proliferation lower bound
+```
+
 ---
 
 ## Selected Systems & Deployments
