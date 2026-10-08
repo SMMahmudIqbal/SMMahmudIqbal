@@ -1,7 +1,8 @@
 # S. M. Mahmud Iqbal
 
 > **Food Process Engineering & Modern Software Architecture**  
-> Dhaka, Bangladesh
+> Dhaka, Bangladesh (23.8103° N, 90.4125° E)  
+> *Systems Architecture: Air-Gapped Android • Kinetic Simulations • Reactive Interfaces*
 
 [![GitHub](https://img.shields.io/badge/GitHub-SMMahmudIqbal-09090b?style=flat-square&logo=github)](https://github.com/SMMahmudIqbal)
 [![Email](https://img.shields.io/badge/Email-smmahmudiqbal%40gmail.com-27272a?style=flat-square&logo=gmail&logoColor=white)](mailto:smmahmudiqbal@gmail.com)
