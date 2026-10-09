@@ -6,7 +6,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SMMahmudIqbal-09090b?style=flat-square&logo=github)](https://github.com/SMMahmudIqbal)
 [![Email](https://img.shields.io/badge/Email-smmahmudiqbal%40gmail.com-27272a?style=flat-square&logo=gmail&logoColor=white)](mailto:smmahmudiqbal@gmail.com)
-[![Web](https://img.shields.io/badge/Live%20Engine-ShelfSense-18181b?style=flat-square)](https://shelfsense-lemon.vercel.app)
+[![ShelfSense](https://img.shields.io/badge/Live%20Engine-ShelfSense-18181b?style=flat-square)](https://shelfsense-lemon.vercel.app)
+[![SnapFlow](https://img.shields.io/badge/Live%20Engine-SnapFlow-DB4A2B?style=flat-square)](https://snapflow-media-downloader.vercel.app)
 
 ---
 
@@ -32,8 +33,11 @@ MIN_WATER_ACTIVITY = 0.60          # Microbial proliferation lower bound
 | System | Domain | Key Architecture | Access |
 | :--- | :--- | :--- | :--- |
 | **[ShelfSense](https://github.com/SMMahmudIqbal/shelfsense)** | Food Kinetics & Quality Assurance | Arrhenius degradation trajectories, WVTR/OTR barrier modeling, automated PDF export certificates, neo-brutalist UI | [Live App](https://shelfsense-lemon.vercel.app) |
-| **[FileBodlai](https://github.com/SMMahmudIqbal/FileBodlai)** | Privacy-First Mobile Utility | 100% offline Android studio, Kotlin 2.0, Jetpack Compose, zero-network permissions, on-device PDF compression and conversion | [Repository](https://github.com/SMMahmudIqbal/FileBodlai) |
-| **[Fluid Tracker Pro](https://github.com/SMMahmudIqbal/fluid-tracker-pro)** | Wellness & Sensor Dynamics | 3D minimalist liquid-glass aesthetic, dual-sine wave canvas physics, accelerometer tilt tracking, interactive home screen widget suite | [Repository](https://github.com/SMMahmudIqbal/fluid-tracker-pro) |
+| **[SnapFlow](https://github.com/SMMahmudIqbal/snapflow-media-downloader)** | Media Extraction & Processing | Swiss Brutalist design, FastAPI & serverless Python backend, yt-dlp multi-client failover, native Android intent receiver | [Live App](https://snapflow-media-downloader.vercel.app) • [APK](https://github.com/SMMahmudIqbal/snapflow-media-downloader/releases) |
+| **[FileBodlai](https://github.com/SMMahmudIqbal/FileBodlai)** | Privacy-First Mobile Utility | 100% offline Android studio, Kotlin 2.0, Jetpack Compose, zero-network permissions, on-device PDF compression & conversion | [Repository](https://github.com/SMMahmudIqbal/FileBodlai) |
+| **[Fluid Tracker Pro](https://github.com/SMMahmudIqbal/fluid-tracker-pro)** | Wellness & Sensor Dynamics | 3D minimalist liquid-glass aesthetic, dual-sine wave canvas physics, accelerometer tilt tracking, interactive widget suite | [Repository](https://github.com/SMMahmudIqbal/fluid-tracker-pro) |
+| **[Cyberpunk Portfolio](https://github.com/SMMahmudIqbal/cyberpunk-portfolio)** | Systems Interface & Terminal UI | Sci-Fi CRT scanline styling, real-time vector eye tracking, interactive bash CLI emulator, zero-dependency static engine | [Repository](https://github.com/SMMahmudIqbal/cyberpunk-portfolio) |
+| **[gwei-weather](https://github.com/SMMahmudIqbal/gwei-weather)** | Web3 Analytics & CLI Utilities | Retro ANSI weather forecast engine for blockchain gas, multi-chain JSON-RPC failover (ETH, Base, Polygon, Arbitrum) | [Repository](https://github.com/SMMahmudIqbal/gwei-weather) |
 | **[BD Food Passport](https://github.com/SMMahmudIqbal/bd-food-passport)** | Geographic Data & Cultural Heritage | Interactive 64-district vector SVG mapping, client-side stamp gamification, high-resolution social card export | [Live App](https://bd-food-passport.vercel.app) |
 | **[Bahana](https://github.com/SMMahmudIqbal/bahana)** | Cultural Linguistics & Generative UI | Contextual excuse engine, dual Bangla/Banglish typography, social story card renderer, tactile keyboard triggers | [Live App](https://bahana-app.vercel.app) |
 
@@ -41,9 +45,10 @@ MIN_WATER_ACTIVITY = 0.60          # Microbial proliferation lower bound
 
 ## Technical Stack
 
-- **Core Languages**: Kotlin, TypeScript, JavaScript, Python
-- **Mobile Ecosystem**: Android SDK, Jetpack Compose, Material 3, AndroidX DataStore, SensorManager, Scoped Storage
-- **Web & Interface Engineering**: React 19, Vite, Tailwind CSS, SVG Graphics, Canvas API
+- **Core Languages**: Kotlin, TypeScript, JavaScript, Python, Bash, Node.js
+- **Mobile Ecosystem**: Android SDK, Jetpack Compose, Material 3, AndroidX DataStore, SensorManager, Scoped Storage, WebView Native Bridge
+- **Web & Interface Engineering**: React 19, Vite, FastAPI, Tailwind CSS, Swiss Brutalism, Neo-Brutalism, Canvas API, Vector SVG
+- **Systems & Infrastructure**: Air-Gapped Local Processing, Multi-tier yt-dlp Engines, Web3 JSON-RPC Pipelines, GitHub Actions CI/CD
 - **Domain Specialization**: Food Process Engineering, Accelerated Shelf-Life Testing (ASLT), Arrhenius Kinetics, Barrier Packaging Simulation
 
 ---
