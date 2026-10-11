@@ -5,6 +5,12 @@ Dhaka, Bangladesh
 
 [Portfolio](https://smmahmudiqbal.github.io/portfolio/) · [GitHub](https://github.com/SMMahmudIqbal) · [Deployments](#deployments--systems) · [Email](mailto:smmahmudiqbal@gmail.com)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/SYSTEMS-100%25%20OPERATIONAL-D71920?style=for-the-badge&labelColor=000000&color=D71920" alt="Systems Operational" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-AIR--GAPPED%20%26%20KINETIC-111111?style=for-the-badge&labelColor=000000&color=222222" alt="Architecture" />
+  <img src="https://img.shields.io/badge/FOCUS-PRESERVATION%20KINETICS-111111?style=for-the-badge&labelColor=000000&color=222222" alt="Focus" />
+</p>
+
 ---
 
 ### Focus
