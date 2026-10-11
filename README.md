@@ -1,7 +1,7 @@
 # S. M. Mahmud Iqbal
 
 Food Process Engineering & Modern Software Architecture  
-Dhaka, Bangladesh · 23.8103° N, 90.4125° E  
+Dhaka, Bangladesh · 
 
 [Portfolio](https://smmahmudiqbal.github.io/portfolio/) · [GitHub](https://github.com/SMMahmudIqbal) · [Deployments](#deployments--systems) · [Email](mailto:smmahmudiqbal@gmail.com)
 
