@@ -29,7 +29,6 @@ Dhaka, Bangladesh
 | **[BD Food Passport](https://github.com/SMMahmudIqbal/bd-food-passport)** | Cultural Cartography | 64-district interactive vector SVG cartography & stamp gamification | [Live](https://bd-food-passport.vercel.app) |
 | **[Bahana](https://github.com/SMMahmudIqbal/bahana)** | Generative UI | Contextual excuse engine, tactile keyboard triggers, social card renderer | [Live](https://bahana-app.vercel.app) |
 | **[Fluid Tracker Pro](https://github.com/SMMahmudIqbal/fluid-tracker-pro)** | Sensor Dynamics | 3D minimalist liquid-glass UI, dual-wave canvas physics, sensor tracking | [Repo](https://github.com/SMMahmudIqbal/fluid-tracker-pro) |
-| **[gwei-weather](https://github.com/SMMahmudIqbal/gwei-weather)** | Web3 Analytics | Retro ANSI gas weather engine, multi-chain JSON-RPC failover | [Repo](https://github.com/SMMahmudIqbal/gwei-weather) |
 
 ---
 
