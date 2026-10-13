@@ -1,7 +1,6 @@
 <img src="banner.svg" alt="S. M. Mahmud Iqbal" width="100%" />
 
 Food Process Engineering & Modern Software Architecture  
-Dhaka, Bangladesh  
 
 [Portfolio](https://smmahmudiqbal.github.io/portfolio/) · [GitHub](https://github.com/SMMahmudIqbal) · [LinkedIn](https://www.linkedin.com/in/rupaisheikh) · [Deployments](#deployments--systems) · [Email](mailto:smmahmudiqbal@gmail.com)
 
