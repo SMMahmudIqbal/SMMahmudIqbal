@@ -49,6 +49,12 @@ Dhaka, Bangladesh
 - **Web & Interface**: React 19 · Vite · FastAPI · Tailwind CSS · Canvas API · Motion Graphics
 - **Systems & Kinetics**: Air-Gapped Pipelines · Arrhenius Modeling · ASLT · Vercel Edge
 
+### Arsenal
+
+<img src="meters.svg" alt="Skill meters" width="100%" />
+
 ---
 
 Developed and maintained by **S. M. Mahmud Iqbal**.
+
+<img src="outro.svg" alt="End of transmission" width="100%" />
