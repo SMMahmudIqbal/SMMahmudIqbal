@@ -1,0 +1,291 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="358" viewBox="0 0 1000 358">
+<title>Arsenal — skill meters</title>
+<style>
+.f{opacity:0;animation:fi .3s ease-out forwards}
+@keyframes fi{from{opacity:0}to{opacity:1}}
+.hd{opacity:0;animation:fi .6s ease-out forwards}
+</style>
+<rect width="1000" height="358" fill="#000000"/>
+<path d="M 30 10 H 10 V 30" fill="none" stroke="#FF3B00" stroke-width="3"/>
+<path d="M 970 10 H 990 V 30" fill="none" stroke="#FF3B00" stroke-width="3"/>
+<path d="M 30 348 H 10 V 328" fill="none" stroke="#FF3B00" stroke-width="3"/>
+<path d="M 970 348 H 990 V 328" fill="none" stroke="#FF3B00" stroke-width="3"/>
+<rect class="hd" x="36" y="30" width="10" height="10" fill="#FF3B00"/>
+<text class="hd" x="56" y="41" font-family="'Courier New',monospace" font-size="19" letter-spacing="4" fill="#FFFFFF">ARSENAL // SKILL METERS</text>
+<text class="f" style="animation-delay:0.25s" x="36" y="98" font-family="'Courier New',monospace" font-size="16" letter-spacing="1" fill="#EDEDED">ARRHENIUS MODELING</text>
+<circle class="f" style="animation-delay:0.40s" cx="336" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.42s" cx="349" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.44s" cx="362" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.46s" cx="375" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.48s" cx="388" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.50s" cx="401" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.52s" cx="414" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.54s" cx="427" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.56s" cx="440" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.58s" cx="453" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.60s" cx="466" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.62s" cx="479" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.64s" cx="492" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.66s" cx="505" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.68s" cx="518" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.70s" cx="531" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.72s" cx="544" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.74s" cx="557" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.76s" cx="570" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.78s" cx="583" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.80s" cx="596" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.82s" cx="609" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.84s" cx="622" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.86s" cx="635" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.88s" cx="648" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.90s" cx="661" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.92s" cx="674" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.94s" cx="687" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.96s" cx="700" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.98s" cx="713" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.00s" cx="726" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.02s" cx="739" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.04s" cx="752" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.06s" cx="765" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.08s" cx="778" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.10s" cx="791" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.12s" cx="804" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.14s" cx="817" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.16s" cx="830" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.18s" cx="843" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.20s" cx="856" cy="92" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.22s" cx="869" cy="92" r="3.4" fill="#FF3B00"/>
+<circle cx="882" cy="92" r="3.4" fill="#2B2B2B"/>
+<circle cx="895" cy="92" r="3.4" fill="#2B2B2B"/>
+<text class="f" style="animation-delay:1.34s" x="968" y="98" text-anchor="end" font-family="'Courier New',monospace" font-size="16" fill="#BBBBBB">95%</text>
+<text class="f" style="animation-delay:0.47s" x="36" y="138" font-family="'Courier New',monospace" font-size="16" letter-spacing="1" fill="#EDEDED">KOTLIN · ANDROID</text>
+<circle class="f" style="animation-delay:0.62s" cx="336" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.64s" cx="349" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.66s" cx="362" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.68s" cx="375" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.70s" cx="388" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.72s" cx="401" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.74s" cx="414" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.76s" cx="427" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.78s" cx="440" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.80s" cx="453" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.82s" cx="466" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.84s" cx="479" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.86s" cx="492" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.88s" cx="505" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.90s" cx="518" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.92s" cx="531" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.94s" cx="544" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.96s" cx="557" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.98s" cx="570" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.00s" cx="583" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.02s" cx="596" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.04s" cx="609" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.06s" cx="622" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.08s" cx="635" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.10s" cx="648" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.12s" cx="661" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.14s" cx="674" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.16s" cx="687" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.18s" cx="700" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.20s" cx="713" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.22s" cx="726" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.24s" cx="739" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.26s" cx="752" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.28s" cx="765" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.30s" cx="778" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.32s" cx="791" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.34s" cx="804" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.36s" cx="817" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.38s" cx="830" cy="132" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.40s" cx="843" cy="132" r="3.4" fill="#FF3B00"/>
+<circle cx="856" cy="132" r="3.4" fill="#2B2B2B"/>
+<circle cx="869" cy="132" r="3.4" fill="#2B2B2B"/>
+<circle cx="882" cy="132" r="3.4" fill="#2B2B2B"/>
+<circle cx="895" cy="132" r="3.4" fill="#2B2B2B"/>
+<text class="f" style="animation-delay:1.52s" x="968" y="138" text-anchor="end" font-family="'Courier New',monospace" font-size="16" fill="#BBBBBB">90%</text>
+<text class="f" style="animation-delay:0.69s" x="36" y="178" font-family="'Courier New',monospace" font-size="16" letter-spacing="1" fill="#EDEDED">JETPACK COMPOSE</text>
+<circle class="f" style="animation-delay:0.84s" cx="336" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.86s" cx="349" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.88s" cx="362" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.90s" cx="375" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.92s" cx="388" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.94s" cx="401" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.96s" cx="414" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:0.98s" cx="427" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.00s" cx="440" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.02s" cx="453" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.04s" cx="466" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.06s" cx="479" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.08s" cx="492" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.10s" cx="505" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.12s" cx="518" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.14s" cx="531" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.16s" cx="544" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.18s" cx="557" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.20s" cx="570" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.22s" cx="583" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.24s" cx="596" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.26s" cx="609" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.28s" cx="622" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.30s" cx="635" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.32s" cx="648" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.34s" cx="661" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.36s" cx="674" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.38s" cx="687" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.40s" cx="700" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.42s" cx="713" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.44s" cx="726" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.46s" cx="739" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.48s" cx="752" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.50s" cx="765" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.52s" cx="778" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.54s" cx="791" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.56s" cx="804" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.58s" cx="817" cy="172" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.60s" cx="830" cy="172" r="3.4" fill="#FF3B00"/>
+<circle cx="843" cy="172" r="3.4" fill="#2B2B2B"/>
+<circle cx="856" cy="172" r="3.4" fill="#2B2B2B"/>
+<circle cx="869" cy="172" r="3.4" fill="#2B2B2B"/>
+<circle cx="882" cy="172" r="3.4" fill="#2B2B2B"/>
+<circle cx="895" cy="172" r="3.4" fill="#2B2B2B"/>
+<text class="f" style="animation-delay:1.72s" x="968" y="178" text-anchor="end" font-family="'Courier New',monospace" font-size="16" fill="#BBBBBB">88%</text>
+<text class="f" style="animation-delay:0.91s" x="36" y="218" font-family="'Courier New',monospace" font-size="16" letter-spacing="1" fill="#EDEDED">UI·UX DESIGN</text>
+<circle class="f" style="animation-delay:1.06s" cx="336" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.08s" cx="349" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.10s" cx="362" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.12s" cx="375" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.14s" cx="388" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.16s" cx="401" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.18s" cx="414" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.20s" cx="427" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.22s" cx="440" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.24s" cx="453" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.26s" cx="466" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.28s" cx="479" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.30s" cx="492" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.32s" cx="505" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.34s" cx="518" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.36s" cx="531" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.38s" cx="544" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.40s" cx="557" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.42s" cx="570" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.44s" cx="583" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.46s" cx="596" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.48s" cx="609" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.50s" cx="622" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.52s" cx="635" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.54s" cx="648" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.56s" cx="661" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.58s" cx="674" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.60s" cx="687" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.62s" cx="700" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.64s" cx="713" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.66s" cx="726" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.68s" cx="739" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.70s" cx="752" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.72s" cx="765" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.74s" cx="778" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.76s" cx="791" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.78s" cx="804" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.80s" cx="817" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.82s" cx="830" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.84s" cx="843" cy="212" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.86s" cx="856" cy="212" r="3.4" fill="#FF3B00"/>
+<circle cx="869" cy="212" r="3.4" fill="#2B2B2B"/>
+<circle cx="882" cy="212" r="3.4" fill="#2B2B2B"/>
+<circle cx="895" cy="212" r="3.4" fill="#2B2B2B"/>
+<text class="f" style="animation-delay:1.98s" x="968" y="218" text-anchor="end" font-family="'Courier New',monospace" font-size="16" fill="#BBBBBB">94%</text>
+<text class="f" style="animation-delay:1.13s" x="36" y="258" font-family="'Courier New',monospace" font-size="16" letter-spacing="1" fill="#EDEDED">WEB DESIGN</text>
+<circle class="f" style="animation-delay:1.28s" cx="336" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.30s" cx="349" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.32s" cx="362" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.34s" cx="375" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.36s" cx="388" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.38s" cx="401" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.40s" cx="414" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.42s" cx="427" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.44s" cx="440" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.46s" cx="453" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.48s" cx="466" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.50s" cx="479" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.52s" cx="492" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.54s" cx="505" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.56s" cx="518" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.58s" cx="531" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.60s" cx="544" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.62s" cx="557" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.64s" cx="570" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.66s" cx="583" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.68s" cx="596" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.70s" cx="609" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.72s" cx="622" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.74s" cx="635" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.76s" cx="648" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.78s" cx="661" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.80s" cx="674" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.82s" cx="687" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.84s" cx="700" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.86s" cx="713" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.88s" cx="726" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.90s" cx="739" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.92s" cx="752" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.94s" cx="765" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.96s" cx="778" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.98s" cx="791" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.00s" cx="804" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.02s" cx="817" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.04s" cx="830" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.06s" cx="843" cy="252" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.08s" cx="856" cy="252" r="3.4" fill="#FF3B00"/>
+<circle cx="869" cy="252" r="3.4" fill="#2B2B2B"/>
+<circle cx="882" cy="252" r="3.4" fill="#2B2B2B"/>
+<circle cx="895" cy="252" r="3.4" fill="#2B2B2B"/>
+<text class="f" style="animation-delay:2.20s" x="968" y="258" text-anchor="end" font-family="'Courier New',monospace" font-size="16" fill="#BBBBBB">93%</text>
+<text class="f" style="animation-delay:1.35s" x="36" y="298" font-family="'Courier New',monospace" font-size="16" letter-spacing="1" fill="#EDEDED">TYPESCRIPT · REACT</text>
+<circle class="f" style="animation-delay:1.50s" cx="336" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.52s" cx="349" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.54s" cx="362" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.56s" cx="375" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.58s" cx="388" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.60s" cx="401" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.62s" cx="414" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.64s" cx="427" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.66s" cx="440" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.68s" cx="453" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.70s" cx="466" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.72s" cx="479" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.74s" cx="492" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.76s" cx="505" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.78s" cx="518" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.80s" cx="531" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.82s" cx="544" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.84s" cx="557" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.86s" cx="570" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.88s" cx="583" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.90s" cx="596" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.92s" cx="609" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.94s" cx="622" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.96s" cx="635" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:1.98s" cx="648" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.00s" cx="661" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.02s" cx="674" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.04s" cx="687" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.06s" cx="700" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.08s" cx="713" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.10s" cx="726" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.12s" cx="739" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.14s" cx="752" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.16s" cx="765" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.18s" cx="778" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.20s" cx="791" cy="292" r="3.4" fill="#FFFFFF"/>
+<circle class="f" style="animation-delay:2.22s" cx="804" cy="292" r="3.4" fill="#FF3B00"/>
+<circle cx="817" cy="292" r="3.4" fill="#2B2B2B"/>
+<circle cx="830" cy="292" r="3.4" fill="#2B2B2B"/>
+<circle cx="843" cy="292" r="3.4" fill="#2B2B2B"/>
+<circle cx="856" cy="292" r="3.4" fill="#2B2B2B"/>
+<circle cx="869" cy="292" r="3.4" fill="#2B2B2B"/>
+<circle cx="882" cy="292" r="3.4" fill="#2B2B2B"/>
+<circle cx="895" cy="292" r="3.4" fill="#2B2B2B"/>
+<text class="f" style="animation-delay:2.34s" x="968" y="298" text-anchor="end" font-family="'Courier New',monospace" font-size="16" fill="#BBBBBB">85%</text>
+</svg>
