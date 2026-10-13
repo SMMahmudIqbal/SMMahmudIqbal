@@ -3,7 +3,7 @@
 Food Process Engineering & Modern Software Architecture  
 Dhaka, Bangladesh  
 
-[Portfolio](https://smmahmudiqbal.github.io/portfolio/) · [GitHub](https://github.com/SMMahmudIqbal) · [Deployments](#deployments--systems) · [Email](mailto:smmahmudiqbal@gmail.com)
+[Portfolio](https://smmahmudiqbal.github.io/portfolio/) · [GitHub](https://github.com/SMMahmudIqbal) · [LinkedIn](https://www.linkedin.com/in/rupaisheikh) · [Deployments](#deployments--systems) · [Email](mailto:smmahmudiqbal@gmail.com)
 
 <p align="left">
   <img src="https://img.shields.io/badge/SYSTEMS-100%25%20OPERATIONAL-D71920?style=for-the-badge&labelColor=000000&color=D71920" alt="Systems Operational" />
@@ -35,6 +35,7 @@ Dhaka, Bangladesh
 | **[BD Food Passport](https://github.com/SMMahmudIqbal/bd-food-passport)** | Cultural Cartography | 64-district interactive vector SVG cartography & stamp gamification | [Live](https://bd-food-passport.vercel.app) |
 | **[Bahana](https://github.com/SMMahmudIqbal/bahana)** | Generative UI | Contextual excuse engine, tactile keyboard triggers, social card renderer | [Live](https://bahana-app.vercel.app) |
 | **[Fluid Tracker Pro](https://github.com/SMMahmudIqbal/fluid-tracker-pro)** | Sensor Dynamics | 3D minimalist liquid-glass UI, dual-wave canvas physics, sensor tracking | [Repo](https://github.com/SMMahmudIqbal/fluid-tracker-pro) |
+| **[Resume CV Maker](https://github.com/SMMahmudIqbal/resume-cv-maker)** | Productivity | No-login CV builder, Watch Dogs DedSec dot-matrix UI, LinkedIn paste auto-fill, live A4 preview | [Live](https://resume-cv-maker-rupai2.vercel.app) |
 
 ---
 
