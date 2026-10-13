@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="S. M. Mahmud Iqbal" width="100%" />
+
 # S. M. Mahmud Iqbal
 
 Food Process Engineering & Modern Software Architecture  
@@ -10,6 +12,9 @@ Dhaka, Bangladesh
   <img src="https://img.shields.io/badge/ARCHITECTURE-AIR--GAPPED%20%26%20KINETIC-111111?style=for-the-badge&labelColor=000000&color=222222" alt="Architecture" />
   <img src="https://img.shields.io/badge/FOCUS-PRESERVATION%20KINETICS-111111?style=for-the-badge&labelColor=000000&color=222222" alt="Focus" />
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2800&pause=900&color=FFFFFF&background=00000000&vCenter=true&width=980&lines=Air-Gapped+Android+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose;Shelf-Life+Kinetics+%C2%B7+Arrhenius+%C2%B7+ASLT;DedSec+Interfaces+%C2%B7+Dot-Matrix+Systems;Offline-First+%C2%B7+Privacy-First+%C2%B7+Zero+Network" alt="Rotating specialties" />
+
 
 ---
 
