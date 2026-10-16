@@ -38,6 +38,7 @@ Nutrition & Food Engineering Student @ DIU · Modern Software Architecture
 | **[Bahana](https://github.com/SMMahmudIqbal/bahana)** | Generative UI | Contextual excuse engine, tactile keyboard triggers, social card renderer | [Live](https://bahana-app.vercel.app) |
 | **[Fluid Tracker Pro](https://github.com/SMMahmudIqbal/fluid-tracker-pro)** | Sensor Dynamics | 3D minimalist liquid-glass UI, dual-wave canvas physics, sensor tracking | [Repo](https://github.com/SMMahmudIqbal/fluid-tracker-pro) |
 | **[CVWala](https://github.com/SMMahmudIqbal/resume-cv-maker)** | Productivity | No-login CV builder, Watch Dogs DedSec dot-matrix UI, LinkedIn paste auto-fill, live A4 preview | [Live](https://resume-cv-maker-rupai2.vercel.app) |
+| **[Dot Music Player](https://github.com/SMMahmudIqbal/dot-music-player)** | Music & Audio | Nothing OS dot-matrix player, real-time ASCII visualizers, 10-band EQ, Web Audio API, offline-first PWA | [Repo](https://github.com/SMMahmudIqbal/dot-music-player) · [APK](https://github.com/SMMahmudIqbal/dot-music-player/releases) |
 
 ---
 
