@@ -39,7 +39,6 @@ Nutrition & Food Engineering Student @ DIU · Modern Software Architecture
 | **[Fluid Tracker Pro](https://github.com/SMMahmudIqbal/fluid-tracker-pro)** | Sensor Dynamics | 3D minimalist liquid-glass UI, dual-wave canvas physics, sensor tracking | [Repo](https://github.com/SMMahmudIqbal/fluid-tracker-pro) |
 | **[CVWala](https://github.com/SMMahmudIqbal/resume-cv-maker)** | Productivity | No-login CV builder, Watch Dogs DedSec dot-matrix UI, LinkedIn paste auto-fill, live A4 preview | [Live](https://resume-cv-maker-rupai2.vercel.app) |
 | **[Dot Music Player](https://github.com/SMMahmudIqbal/dot-music-player)** | Music & Audio | Nothing OS dot-matrix player, real-time ASCII visualizers, 10-band EQ, Web Audio API, offline-first PWA | [Repo](https://github.com/SMMahmudIqbal/dot-music-player) · [APK](https://github.com/SMMahmudIqbal/dot-music-player/releases) |
-| **[SOLO](https://github.com/SMMahmudIqbal/solo-app)** | Productivity | Nothing OS-style minimalist focus utility — shows exactly one task at a time (TypeScript, Capacitor) | [Repo](https://github.com/SMMahmudIqbal/solo-app) |
 
 ---
 
