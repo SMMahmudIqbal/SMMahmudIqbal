@@ -30,7 +30,7 @@ Nutrition & Food Engineering Student @ DIU · Modern Software Architecture
 
 | Project | Domain | Architecture | Access |
 | :--- | :--- | :--- | :--- |
-| **[Portfolio](https://github.com/SMMahmudIqbal/portfolio)** | Creative Tech | Grunge collage motion graphics, canvas dynamics | [Live](https://smmahmudiqbal.github.io/portfolio/) |
+| **[Portfolio](https://github.com/SMMahmudIqbal/portfolio)** | Creative Tech | Black and white minimal, compact selected-projects index, real screenshots | [Live](https://smmahmudiqbal.github.io/portfolio/) |
 | **[MATRICE](https://github.com/SMMahmudIqbal/matrice-engine)** | Food Labeling & Compliance | FDA nutrition label engine, claim audit, allergen radar (FASTER Act) | [Live](https://fda-nutrition-label-generator.vercel.app) |
 | **[ShelfSense](https://github.com/SMMahmudIqbal/shelfsense)** | Food Kinetics | Arrhenius degradation trajectories, barrier packaging, PDF certificates | [Live](https://shelfsense-lemon.vercel.app) |
 | **[SnapFlow](https://github.com/SMMahmudIqbal/snapflow-media-downloader)** | Media Pipelines | Swiss Brutalist interface, FastAPI & serverless yt-dlp pipelines | [Live](https://snapflow-media-downloader.vercel.app) · [APK](https://github.com/SMMahmudIqbal/snapflow-media-downloader/releases) |
